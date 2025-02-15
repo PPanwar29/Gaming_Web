@@ -3,6 +3,7 @@ import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/all";
 
 import AnimatedTitle from "./AnimatedTitle";
+import { BentoTilt } from "./Features";
 
 gsap.registerPlugin(ScrollTrigger);
 
